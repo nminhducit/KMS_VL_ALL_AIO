@@ -4,7 +4,7 @@
 - **Run as Administrator with Windows PowerShell , then paste the command below and press ENTER**
 
   ```PHP
-  iwr -useb https://cdn.jsdelivr.net/gh/nminhducit/KMS_VL_ALL_AIO/KMS.ps1 | iex
+  iwr -useb https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/IMP/KMS.ps1 | iex
   ```
   
 - Or Download KMS ALL AIO: Home page: https://github.com/abbodi1406/KMS_VL_ALL_AIO
