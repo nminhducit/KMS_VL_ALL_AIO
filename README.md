@@ -1,6 +1,6 @@
 # KMS VL ALL AIO #
 
-- Author: Nguyễn Minh Đức.
+- Author: Nguyen Minh Duc.
 - **Run as Administrator with Windows PowerShell , then paste the command below and press ENTER**
 
   ```PHP
