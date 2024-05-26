@@ -1,7 +1,7 @@
 # Enable TLSv1.2 for compatibility with older clients
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
-$DownloadURL = 'https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/IMP/KMS.cmd'
+$DownloadURL = 'https://cdn.jsdelivr.net/gh/nminhducit/KMS_VL_ALL_AIO/KMS.cmd'
 
 $rand = Get-Random -Maximum 1000
 $FilePath = "$env:TEMP\KMS_$rand.cmd"
