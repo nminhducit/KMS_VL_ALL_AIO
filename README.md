@@ -18,13 +18,8 @@
 ### Activate Windows and Office: ###
 - **Unable to activate office 2010.**
 - Download, unzip it and run it under your authority **Run As Administrator**
-- ![image](https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/assets/82578024/2a5b7bc8-0205-4f47-8031-cb73bcf7388e)
-- ![image](https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/assets/82578024/9be5f4f5-a568-4516-8d0c-9015c9e982d7)
-- Choose the appropriate number, let's say I choose number 1
-- ![image](https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/assets/82578024/29d8ab11-b75a-42ff-912c-b8c4fe08ea20)
-- The Office I am installing is Office 365 Enterprise. When running the activation, the results are:
-- ![image](https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/assets/82578024/b981d841-8ffe-4709-a8bb-fcbd5ce8c927)
-- **Automatically migrate and activate to Office 365 Mondo.**
+- ![image](https://i.imgur.com/YLoH89b.png)
+- ![image](https://i.imgur.com/LkT9Orv.png)
 
 
 
