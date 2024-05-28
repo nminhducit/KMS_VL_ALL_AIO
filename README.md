@@ -9,9 +9,9 @@
   
 - Or Download KMS ALL AIO: Home page: https://github.com/abbodi1406/KMS_VL_ALL_AIO
   - Ver: 5.1 [here](https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/IMP/KMS5.1.cmd) 
-  - Ver: 5.0 [here](https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/blob/IMP/KMS5.0.cmd)
-  - Ver: 4.9 [here](https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/blob/IMP/KMS4.9.cmd)
-  - Ver: 4.8 [here](https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/blob/IMP/KMS4.8.cmd)
+  - Ver: 5.0 [here](https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/IMP/KMS5.0.cmd)
+  - Ver: 4.9 [here](https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/IMP/KMS4.9.cmd)
+  - Ver: 4.8 [here](https://raw.githubusercontent.com/nminhducit/KMS_VL_ALL_AIO/IMP/KMS4.8.cmd)
 - GitHub: https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases
 
 ## USER MANUAL##
